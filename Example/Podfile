@@ -1,0 +1,7 @@
+use_frameworks!
+target 'Cristian_Tarea06_Tests' do
+  pod 'Cristian_Tarea06', :path => '../'
+  
+  pod 'Quick', '~> 2.2.0'
+    pod 'Nimble', '~> 8.0.7'
+end

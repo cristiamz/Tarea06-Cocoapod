@@ -1,0 +1,22 @@
+{
+  "name": "Cristian_Tarea06",
+  "version": "0.1.0",
+  "summary": "A short description of Cristian_Tarea06.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Cristian Zuniga/Cristian_Tarea06",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Cristian Zuniga": "cristian.zuniga@snowcapcr.com"
+  },
+  "source": {
+    "git": "https://github.com/Cristian Zuniga/Cristian_Tarea06.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Cristian_Tarea06/Classes/**/*"
+}

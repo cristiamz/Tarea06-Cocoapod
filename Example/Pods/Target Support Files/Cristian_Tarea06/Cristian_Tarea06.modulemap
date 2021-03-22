@@ -1,0 +1,6 @@
+framework module Cristian_Tarea06 {
+  umbrella header "Cristian_Tarea06-umbrella.h"
+
+  export *
+  module * { export * }
+}
